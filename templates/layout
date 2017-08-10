@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<hmtl>,
+
+    <head>
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+        <link rel="stylesheet" href="">
+    </head>
+
+    <body>
+        <header>
+            <div class="container">
+                <h1 class="title">TRAX</h1>
+            </div>
+        </header>
+
+        {% block content %}
+         {% endblock %}
+
+    </body>
+</hmtl>
